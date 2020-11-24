@@ -9,5 +9,5 @@
 
 ## Notes
 
-1. [【统计学习方法】2. 感知机 Perception](http://www.chongfeng-ling.com/992/2-perception/)
+1. [【统计学习方法】2. 感知机 Perceptron](http://www.chongfeng-ling.com/992/2-perception/)
 
