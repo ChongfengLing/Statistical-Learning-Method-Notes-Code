@@ -1,3 +1,5 @@
 /.idea/
 
 .ipynb_checkpoints
+/titanic/
+/C3 K近邻法 KNN/构建kd树.py
