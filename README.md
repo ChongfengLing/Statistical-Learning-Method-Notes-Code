@@ -12,3 +12,6 @@
 2. [【统计学习方法】3. K近邻法 KNN](http://www.chongfeng-ling.com/1003/%e3%80%90%e7%bb%9f%e8%ae%a1%e5%ad%a6%e4%b9%a0%e6%96%b9%e6%b3%95%e3%80%913-k%e8%bf%91%e9%82%bb%e6%b3%95-knn/)
 3. [【统计学习方法】4. 朴素贝叶斯 Naive Bayes](http://www.chongfeng-ling.com/1095/%e3%80%90%e7%bb%9f%e8%ae%a1%e5%ad%a6%e4%b9%a0%e6%96%b9%e6%b3%95%e3%80%91-4-%e6%9c%b4%e7%b4%a0%e8%b4%9d%e5%8f%b6%e6%96%af-naive-bayes/)
 4. [【统计学习方法】5. 决策树 Decision Tree](http://www.chongfeng-ling.com/1109/5-decision-tree/)
+
+## Reference
+All references are listed in bolgs.
